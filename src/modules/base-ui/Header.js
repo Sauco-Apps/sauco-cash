@@ -22,7 +22,16 @@ class Head extends Component {
                 <span />
               </span>
             </div>
-            <div id="navbarMenuHeroB" className="navbar-menu">
+            
+          </div>
+        </nav>
+      </div>
+    );
+  }
+}
+
+/** 
+ * <div id="navbarMenuHeroB" className="navbar-menu">
               <div className="navbar-end">
                 <Link to="/how-it-works" className="navbar-item">
                   What is a paper wallet?
@@ -48,11 +57,6 @@ class Head extends Component {
                 </span>
               </div>
             </div>
-          </div>
-        </nav>
-      </div>
-    );
-  }
-}
+*/
 
 export default Head;
