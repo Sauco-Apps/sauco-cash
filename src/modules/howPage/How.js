@@ -56,7 +56,7 @@ class How extends Component {
                 is transmitted to any server and there is no tracking/analytics
                 software in place. In order to verify this, you can analyze on{" "}
                 <a
-                  href="https://github.com/xunga/LiskPaper/releases/tag/1.0.0"
+                  href="https://github.com/Sauco-Apps/sauco-cash"
                   className="underlined"
                 >
                   {" "}Github{" "}
@@ -64,39 +64,7 @@ class How extends Component {
                 the source code. In order to avoid any doubts, downloading the
                 software from Github and running it offline is encouraged.
               </p>
-              <h2 className="title top35">
-                How do I generate the paper wallet offline?
-              </h2>
-              <p>
-                The code of{" "}
-                <a href="https://cash.sauco.io" className="underlined">
-                  cash.sauco.io
-                </a>{" "}
-                is open source. You can improve it and submit a PR to the
-                repository. If you need assistance, feel free to contact
-                carbonara on the Sauco.chat.
-              </p>
-              <p>
-                The safest way to generate a wallet is{" "}
-                <a
-                  href="https://github.com/xunga/LiskPaper/releases/tag/1.0.0"
-                  className="underlined"
-                >
-                  to download the application here
-                </a>, transfer it into an usb drive, start an offline linux
-                distribution, and open the index.html.
-              </p>
-              <p>
-                If you don&apos;t want to bother to use an offline linux
-                distribution, you can just download{" "}
-                <a
-                  href="https://github.com/xunga/LiskPaper/releases/tag/1.0.0"
-                  className="underlined"
-                >
-                  liskpaper.zip from here
-                </a>, unzip it and execute the index.html. There is no need to
-                be connected to internet while running the liskpaper app.
-              </p>
+              
             </div>
           </div>
         </AnimationsWrapper>
